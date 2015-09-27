@@ -153,7 +153,8 @@ PRODUCT_PACKAGES += \
     CMAccount \
     CMHome \
     CyanogenSetupWizard \
-    Viper4Android
+    Viper4Android \
+    CMSettingsProvider
 
 # CM Platform Library
 PRODUCT_PACKAGES += \
